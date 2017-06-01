@@ -1,10 +1,10 @@
-import { TravelPlannerUiPage } from './app.po';
+import { TravelPlannerUIPage } from './app.po';
 
 describe('travel-planner-ui App', () => {
-  let page: TravelPlannerUiPage;
+  let page: TravelPlannerUIPage;
 
   beforeEach(() => {
-    page = new TravelPlannerUiPage();
+    page = new TravelPlannerUIPage();
   });
 
   it('should display message saying app works', () => {
