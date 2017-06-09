@@ -1,0 +1,389 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Wed, 07 Jun 2017 05:19:59 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>London Attackers Slipped By Despite an Avalanche of Warnings</title>
+      <link>https://www.nytimes.com/2017/06/06/world/europe/london-assailants-terrorism-warning-signs-fbi.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/06/world/europe/london-assailants-terrorism-warning-signs-fbi.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/06/world/europe/london-assailants-terrorism-warning-signs-fbi.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/07/world/europe/07ATTACKERS-02/07suspects-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Khuram Shazad Butt, left, in a London park last year, when he was said to have attacked a counterextremism advocate.</media:description>
+      <media:credit>Usama Hasan</media:credit>
+      <description>Revelations about three assailants tumbled into the open, raising pressure on Prime Minister Theresa May to explain how the signs were missed.</description>
+      <dc:creator>RUKMINI CALLIMACHI and KATRIN BENNHOLD</dc:creator>
+      <pubDate>Wed, 07 Jun 2017 01:44:43 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">London Attacks (June, 2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Al Qaeda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">May, Theresa M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Butt, Khuram Shazad (d 2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Redouane, Rachid (d 2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zaghba, Youssef</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
+    </item>
+    <item>
+      <title>Death Toll in Kabul Bombing Has Hit 150, Afghan President Says</title>
+      <link>https://www.nytimes.com/2017/06/06/world/asia/kabul-bombing-death-toll-increases.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/06/world/asia/kabul-bombing-death-toll-increases.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/06/world/asia/kabul-bombing-death-toll-increases.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/07/world/07afghanistan-1/08afghanistan-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Police officers by the crater caused by a truck bombing in Kabul last week. More than 300 were wounded in the blast, the Afghan president said.</media:description>
+      <media:credit>Andrew Quilty for The New York Times</media:credit>
+      <description>More than 300 were wounded, Ashraf Ghani said at a peace conference in the capital. No insurgent attack since the U.S.-led invasion has produced more confirmed fatalities.</description>
+      <dc:creator>ROD NORDLAND</dc:creator>
+      <pubDate>Tue, 06 Jun 2017 10:44:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001-14)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ghani, Ashraf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abdullah, Abdullah</category>
+    </item>
+    <item>
+      <title>Adnan Khashoggi, High-Living Saudi Arms Trader, Dies at 81</title>
+      <link>https://www.nytimes.com/2017/06/06/world/middleeast/adnan-khashoggi-dead-saudi-arms-trader.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/06/world/middleeast/adnan-khashoggi-dead-saudi-arms-trader.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/06/world/middleeast/adnan-khashoggi-dead-saudi-arms-trader.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/07/world/07khashoggi-obit-1/07khashoggi-obit-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Adnan Khashoggi at a hotel in Cairo in 2009. For years he was the middleman in most of Saudi Arabia&#x2019;s arms purchases.</media:description>
+      <media:credit>Shawn Baldwin for The New York Times</media:credit>
+      <description>Mr. Khashoggi rose to spectacular wealth in the 1970s and &#x2019;80s and was involved in many of his era&#x2019;s highest-profile scandals, including Iran-contra.</description>
+      <dc:creator>STEPHEN KINZER</dc:creator>
+      <pubDate>Tue, 06 Jun 2017 19:27:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khashoggi, Adnan M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+    </item>
+    <item>
+      <title>Aid Coordinator in Yemen Had Secret Job Overseeing U.S. Commando Shipments</title>
+      <link>https://www.nytimes.com/2017/06/06/world/middleeast/scott-darden-transoceanic-yemen-pentagon.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/06/world/middleeast/scott-darden-transoceanic-yemen-pentagon.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/06/world/middleeast/scott-darden-transoceanic-yemen-pentagon.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/05/30/world/30darden-1/30darden-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A Houthi fighter guarding a shipment of humanitarian aid in Sana, the capital of Yemen, in 2015 as the country descended into civil war.</media:description>
+      <media:credit>Khaled Abdullah/Reuters</media:credit>
+      <description>Arrangements like the one between Special Operations forces and the man, Scott Darden, who was once kidnapped, can cast suspicion on aid workers.</description>
+      <dc:creator>ADAM GOLDMAN and ERIC SCHMITT</dc:creator>
+      <pubDate>Tue, 06 Jun 2017 09:00:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+    </item>
+    <item>
+      <title>Europe Edition: Qatar, Theresa May, Paris: Your Wednesday Briefing</title>
+      <link>https://www.nytimes.com/2017/06/07/briefing/qatar-theresa-may-paris.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/07/briefing/qatar-theresa-may-paris.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/07/briefing/qatar-theresa-may-paris.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/06/briefing/07ambriefing-europe-slide-K6VX/07ambriefing-europe-slide-K6VX-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Carl Court/Getty Images</media:credit>
+      <description>Here&#x2019;s what you need to know to start your day.</description>
+      <dc:creator>PATRICK BOEHLER</dc:creator>
+      <pubDate>Wed, 07 Jun 2017 04:56:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Canada Will Pursue a More Robust Global Role, Minister Says</title>
+      <link>https://www.nytimes.com/2017/06/06/world/canada/canada-military-spending-trump-freeland.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/06/world/canada/canada-military-spending-trump-freeland.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/06/world/canada/canada-military-spending-trump-freeland.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/07/world/07CANADA/07CANADA-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Chrystia Freeland, the Canadian foreign minister, in Parliament on Tuesday. &#x201C;To rely solely on the U.S. security umbrella would make us a client state,&#x201D; she said.</media:description>
+      <media:credit>Chris Wattie/Reuters</media:credit>
+      <description>Canada will increase its military spending and its activities in international organizations as the United States pulls back, the country&#x2019;s foreign affairs minister said on Tuesday.</description>
+      <dc:creator>IAN AUSTEN</dc:creator>
+      <pubDate>Wed, 07 Jun 2017 02:16:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Freeland, Chrystia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Alois Mock, Austrian Who Helped Tear Down Iron Curtain (Literally), Dies at 82</title>
+      <link>https://www.nytimes.com/2017/06/06/world/europe/alois-mock-dead-austrian-foreign-minister.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/06/world/europe/alois-mock-dead-austrian-foreign-minister.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/06/world/europe/alois-mock-dead-austrian-foreign-minister.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/07/world/07mock-obit/07mock-obit-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>On June 27, 1989, the then Austrian foreign minister, Alois Mock, left, and the Hungarian foreign minister, Gyula Horn, cut through fencing that represented the communist Iron Curtain separating the two countries.</media:description>
+      <media:credit>Bernhard J. Holzner/Associated Press</media:credit>
+      <description>In 1989, Mr. Mock, the Austrian foreign minister, helped his Hungarian counterpart to cut open the wire fence between the countries just months before the Berlin Wall fell.</description>
+      <dc:creator>ALISON SMALE</dc:creator>
+      <pubDate>Wed, 07 Jun 2017 01:46:48 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hungary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mock, Alois</category>
+    </item>
+    <item>
+      <title>Meet the Former Extremist Who Flagged a London Attacker in 2015</title>
+      <link>https://www.nytimes.com/video/world/europe/100000005147965/fbi-london-attacker-khuram-butt.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/europe/100000005147965/fbi-london-attacker-khuram-butt.html</guid>
+      <description>Jesse Morton, a former Al Qaeda recruiter who became an informer, knew the London attacker Khuram Shazad Butt and flagged him to the F.B.I. in a report in 2015.</description>
+      <dc:creator/>
+      <pubDate>Wed, 07 Jun 2017 01:44:41 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/des">London Attacks (June, 2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Informers</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jesse Morton</category>
+    </item>
+    <item>
+      <title>Nepal&#x2019;s Parliament Makes Veteran Politician a Four-Time Prime Minister</title>
+      <link>https://www.nytimes.com/2017/06/06/world/asia/nepal-prime-minister-sher-bahadur-deuba.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/06/world/asia/nepal-prime-minister-sher-bahadur-deuba.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/06/world/asia/nepal-prime-minister-sher-bahadur-deuba.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/07/world/07nepal/07nepal-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Nepal&#x2019;s newly elected prime minister, Sher Bahadur Deuba, left, with his predecessor, Pushpa Kamal Dahal, at Parliament House in Kathmandu, Nepal, on Tuesday.</media:description>
+      <media:credit>Niranjan Shrestha/Associated Press</media:credit>
+      <description>Lawmakers selected Sher Bahadur Deuba, who is likely to be in power just a few months because parliamentary elections are to be held by January 2018.</description>
+      <dc:creator>THE ASSOCIATED PRESS</dc:creator>
+      <pubDate>Wed, 07 Jun 2017 00:42:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Nepali Congress Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Deuba, Sher Bahadur</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+    </item>
+    <item>
+      <title>London Attackers: What We Know</title>
+      <link>https://www.nytimes.com/video/world/europe/100000005145903/london-attackers-what-we-know.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/europe/100000005145903/london-attackers-what-we-know.html</guid>
+      <description>Khuram Shazad Butt, Rachid Redouane and Youssef Zaghba killed seven and left scores injured on Saturday night. Two of them had been flagged by the authorities and one had even appeared in a TV documentary about Muslim extremism in Britain.</description>
+      <dc:creator/>
+      <pubDate>Tue, 06 Jun 2017 23:18:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/des">London Attacks (June, 2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Documentary Films and Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Butt, Khuram Shazad (d 2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Redouane, Rachid (d 2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Youssef Zaghba</category>
+    </item>
+    <item>
+      <title>Asia and Australia Edition: London, Qatar, Saudi Arabia: Your Morning Briefing</title>
+      <link>https://www.nytimes.com/2017/06/06/briefing/london-qatar-saudi-arabia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/06/briefing/london-qatar-saudi-arabia.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/06/briefing/london-qatar-saudi-arabia.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/06/briefing/07BRIEFING-asia-slide-EDA3/07BRIEFING-asia-slide-EDA3-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Tech. Sgt. Terrica Y. Jones/U.S. Air Force, via Reuters</media:credit>
+      <description>Here&#x2019;s what you need to know to start your day.</description>
+      <dc:creator>CHARLES McDERMID</dc:creator>
+      <pubDate>Wed, 07 Jun 2017 01:08:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Five Killed as Indian Farmers Clash With Police at a Protest</title>
+      <link>https://www.nytimes.com/2017/06/06/world/asia/india-farmers-protest-madhya-pradesh.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/06/world/asia/india-farmers-protest-madhya-pradesh.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/06/world/asia/india-farmers-protest-madhya-pradesh.html?partner=rss&amp;emc=rss"/>
+      <description>The protesting farmers in central India were demanding debt relief and higher prices for their crops in the latest of a series of confrontations.</description>
+      <dc:creator>HARI KUMAR</dc:creator>
+      <pubDate>Wed, 07 Jun 2017 00:39:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Bharatiya Janata Party</category>
+    </item>
+    <item>
+      <title>In Britain, Fissures That Can&#x2019;t Be Blamed on Brexit</title>
+      <link>https://www.nytimes.com/2017/06/06/world/europe/in-britain-fissures-that-cant-be-blamed-on-brexit.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/06/world/europe/in-britain-fissures-that-cant-be-blamed-on-brexit.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/06/world/europe/in-britain-fissures-that-cant-be-blamed-on-brexit.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/03/world/03Britain1/03Britain1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The referendum on leaving the European Union exposed deep splits between young people, who largely voted to remain, and their elders, many more of whom wanted to leave.</media:description>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <description>There is resentment between London and the rest of the country, a dissonance between the old and young, and tensions between Scotland and England.</description>
+      <dc:creator>STEPHEN CASTLE</dc:creator>
+      <pubDate>Tue, 06 Jun 2017 19:25:49 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+    </item>
+    <item>
+      <title>Syrian Boy Who Became Image of Civil War Reappears</title>
+      <link>https://www.nytimes.com/2017/06/06/world/middleeast/omran-daqneesh-syria-aleppo.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/06/world/middleeast/omran-daqneesh-syria-aleppo.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/06/world/middleeast/omran-daqneesh-syria-aleppo.html?partner=rss&amp;emc=rss"/>
+      <description>Omran Daqneesh, the boy from Aleppo whose bloodied face captured the world&#x2019;s attention, has appeared in new interviews on news outlets that favor the Syrian government.</description>
+      <dc:creator>MEGAN SPECIA and MAHER SAMAAN</dc:creator>
+      <pubDate>Tue, 06 Jun 2017 19:27:29 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">White Helmets (Syrian Civil Defense Volunteer Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Daqneesh, Omran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aleppo (Syria)</category>
+    </item>
+    <item>
+      <title>Trump Takes Credit for Saudi Move Against Qatar, a U.S. Military Partner</title>
+      <link>https://www.nytimes.com/2017/06/06/world/middleeast/trump-qatar-saudi-arabia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/06/world/middleeast/trump-qatar-saudi-arabia.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/06/world/middleeast/trump-qatar-saudi-arabia.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/07/world/07dc-prexy/07dc-prexy-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump met with Sheikh Tamim bin Hamad al-Thani, the emir of Qatar, in Saudi Arabia last month.</media:description>
+      <media:credit>Stephen Crowley/The New York Times</media:credit>
+      <description>&#x201C;During my recent trip to the Middle East I stated that there can no longer be funding of Radical Ideology,&#x201D; he said on Twitter. &#x201C;Leaders pointed to Qatar &#x2014; look!&#x201D;</description>
+      <dc:creator>MARK LANDLER</dc:creator>
+      <pubDate>Wed, 07 Jun 2017 01:02:41 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>Terrorists Deliver Their Message With Lethal Simplicity</title>
+      <link>https://www.nytimes.com/2017/06/06/world/europe/terrorism-london-attacks-isis-islam.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/06/world/europe/terrorism-london-attacks-isis-islam.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/06/world/europe/terrorism-london-attacks-isis-islam.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/07/world/07TERROR-01web/07TERROR-01web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The police and emergency services personnel tended to victims of the terrorist attack on London Bridge last Saturday.</media:description>
+      <media:credit>Daniel Sorabji/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Since the attacks of Sept. 11, 2001, terrorists have embraced tactics that require the simplest and most accessible of weapons &#x2014; trucks and knives &#x2014; to commit sensational violence.</description>
+      <dc:creator>SCOTT SHANE</dc:creator>
+      <pubDate>Tue, 06 Jun 2017 15:22:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">London Attacks (June, 2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+    </item>
+    <item>
+      <title>Police Shoot Attacker Outside Notre-Dame Cathedral in Paris</title>
+      <link>https://www.nytimes.com/2017/06/06/world/europe/notre-dame-paris-shooting.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/06/world/europe/notre-dame-paris-shooting.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/06/world/europe/notre-dame-paris-shooting.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/07/world/07PARIS-REFER/07PARIS-REFER-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>French police officers stood guard at the site of an attack near the entrance of Notre-Dame Cathedral in Paris on Tuesday.</media:description>
+      <media:credit>Yoan Valat/European Pressphoto Agency</media:credit>
+      <description>&#x201C;This is for Syria,&#x201D; the man, carrying a hammer and knives, yelled. About 900 people inside the cathedral were reported to be safe.</description>
+      <dc:creator>AURELIEN BREEDEN and BENO&#xCE;T MORENNE</dc:creator>
+      <pubDate>Tue, 06 Jun 2017 16:54:31 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Notre Dame Cathedral (Paris)</category>
+    </item>
+    <item>
+      <title>U.S.-Backed Forces Begin Assault on Raqqa, ISIS Stronghold in Syria</title>
+      <link>https://www.nytimes.com/2017/06/06/world/middleeast/us-backed-forces-begin-assault-on-raqqa.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/06/world/middleeast/us-backed-forces-begin-assault-on-raqqa.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/06/world/middleeast/us-backed-forces-begin-assault-on-raqqa.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/07/world/07raqqa/07raqqa-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The road from Raqqa, Syria, last month. Thousands of civilians have fled as a coalition led by the United States has advanced on the city, an Islamic State stronghold.</media:description>
+      <media:credit>Youssef Youssef/European Pressphoto Agency</media:credit>
+      <description>The force of Syrian Kurds and Arab militias say they have begun operations on the city, the Islamic State&#x2019;s self-proclaimed capital.</description>
+      <dc:creator>ANNE BARNARD</dc:creator>
+      <pubDate>Tue, 06 Jun 2017 23:21:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Syrian Democratic Forces</category>
+    </item>
+    <item>
+      <title>Cinque Terre Journal: To Save Its Cliffside Towns, Italy Revives the Art of Terracing</title>
+      <link>https://www.nytimes.com/2017/06/06/world/europe/to-save-its-cliffside-towns-italy-revives-the-art-of-terracing.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/06/world/europe/to-save-its-cliffside-towns-italy-revives-the-art-of-terracing.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/06/world/europe/to-save-its-cliffside-towns-italy-revives-the-art-of-terracing.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/07/world/07cinqueterre-01/00cinqueterre1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A view of Manarola, one of the five villages of Cinque Terre, and the terracing on the hills surrounding it, whose dry stone walls help keep the land from washing away.</media:description>
+      <media:credit>Gianni Cipriano for The New York Times</media:credit>
+      <description>The dry stone walls that create farming plots on steep slopes are more than picturesque: They protect the villages below from floods and landslides.</description>
+      <dc:creator>GAIA PIANIGIANI</dc:creator>
+      <pubDate>Tue, 06 Jun 2017 21:49:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Geography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations Educational, Scientific and Cultural Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cinque Terre (Italy)</category>
+    </item>
+    <item>
+      <title>In Geneva Speeches, Nikki Haley Casts U.S. as Rights Champion</title>
+      <link>https://www.nytimes.com/2017/06/06/world/europe/united-nations-trump-human-rights.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/06/world/europe/united-nations-trump-human-rights.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/06/world/europe/united-nations-trump-human-rights.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/07/world/07Nations/07Nations-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Nikki Haley, the American ambassador to the United Nations, addressed the opening session of the organization&#x2019;s Human Rights Council in Geneva on Tuesday.</media:description>
+      <media:credit>Magali Girardin/European Pressphoto Agency</media:credit>
+      <description>The American envoy to the U.N., Nikki R. Haley, urged the Human Rights Council to stop passing &#x201C;biased&#x201D; resolutions aimed at Israel.</description>
+      <dc:creator>NICK CUMMING-BRUCE and SOMINI SENGUPTA</dc:creator>
+      <pubDate>Tue, 06 Jun 2017 18:44:18 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations Human Rights Council</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haley, Nikki R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zeid Ra'ad Zeid Al Hussein</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+    </item>
+    <item>
+      <title>As Trump Steps Back, Jerry Brown Talks Climate Change in China</title>
+      <link>https://www.nytimes.com/2017/06/06/world/asia/xi-jinping-china-jerry-brown-california-climate.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/06/world/asia/xi-jinping-china-jerry-brown-california-climate.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/06/world/asia/xi-jinping-china-jerry-brown-california-climate.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/07/world/07China/07China-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Gov. Jerry Brown of California, left, met with President Xi Jinping of China in Beijing on Tuesday.</media:description>
+      <media:credit>Aaron Berkovich</media:credit>
+      <description>Gov. Jerry Brown, 18 months from leaving office, is finishing his term as the nation&#x2019;s de facto envoy on climate change.</description>
+      <dc:creator>JAVIER C. HERN&#xC1;NDEZ and ADAM NAGOURNEY</dc:creator>
+      <pubDate>Wed, 07 Jun 2017 00:57:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Edmund G Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Global Warming</category>
+    </item>
+    <item>
+      <title>Questions on U.K. Policing Mount as 3rd London Attacker Is Identified</title>
+      <link>https://www.nytimes.com/2017/06/06/world/europe/london-attack-uk.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/06/world/europe/london-attack-uk.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/06/world/europe/london-attack-uk.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/07/world/07ATTACKERS-03/07London-1496746556876-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Youssef Zaghba</media:description>
+      <media:credit>London Metropolitan Police, via European Pressphoto Agency</media:credit>
+      <description>The police said the third assailant was Youssef Zaghba, 22, an Italian of Moroccan ancestry. One of the three, Khuram Shazad Butt, 27, had worked for the London Underground.</description>
+      <dc:creator>SEWELL CHAN and STEVEN ERLANGER</dc:creator>
+      <pubDate>Tue, 06 Jun 2017 13:30:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">London Attacks (June, 2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Redouane, Rachid (d 2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zaghba, Youssef</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Butt, Khuram Shazad (d 2017)</category>
+    </item>
+    <item>
+      <title>Australian Politics Is Open to Foreign Cash, and China Has Much to Gain</title>
+      <link>https://www.nytimes.com/2017/06/06/world/australia/china-political-influence-campaign-finance.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/06/world/australia/china-political-influence-campaign-finance.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/06/world/australia/china-political-influence-campaign-finance.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/07/world/07australia-4/07australia-4-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Huang Xiangmo, a prominent businessman of Chinese descent, in Sydney last year. Mr. Huang is one of two donors Australia&#x2019;s intelligence chief had identified as possible agents for the Chinese government.</media:description>
+      <media:credit>Ryan Stuart</media:credit>
+      <description>A recent report raised questions about Chinese interference in Australia&#x2019;s political system, where foreign campaign donations are legal and difficult to track.</description>
+      <dc:creator>DAMIEN CAVE and JACQUELINE WILLIAMS</dc:creator>
+      <pubDate>Tue, 06 Jun 2017 08:55:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+  </channel>
+</rss>
